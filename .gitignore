@@ -13,3 +13,7 @@ __pycache__/
 wlft*
 *.mti
 *.mpf
+.DS_Store
+*~
+.vscode/
+.idea/
